@@ -47,7 +47,6 @@ const periodsArray = [
     "7. Ders",
     "Teneffüs",
     "8. Ders",
-    "Test"
 ];
 
 function period() {
